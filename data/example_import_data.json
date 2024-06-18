@@ -1,0 +1,26 @@
+{
+  "nodes": [
+    {
+      "title": "node01",
+      "id": "1"
+    },
+    {
+      "title": "node02",
+      "id": "2"
+    },
+    {
+      "title": "node03",
+      "id": "3"
+    }
+  ],
+  "links": [
+    {
+      "source": "1",
+      "target": "2"
+    },
+    {
+      "source": "1",
+      "target": "3"
+    }
+  ]
+}
