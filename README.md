@@ -1,3 +1,5 @@
+![Example a](./example/deeplearning.gif)
+
 ![Example 00](./example/biglargemodelmath.png)
 
 ![Example 01](./example/monitoreaxm.png)
