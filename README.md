@@ -1,5 +1,5 @@
 
-[![demo](./example/biglargemodelmath.png)](https://www.youtube.com/watch?v=PiNKOIHWG-Q)
+[![demo](http://img.youtube.com/vi/PiNKOIHWG-Q/0.jpg)](https://www.youtube.com/watch?v=PiNKOIHWG-Q)
 
 
 ![Example a](./example/deeplearning.gif)
