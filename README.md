@@ -1,5 +1,5 @@
 
-[![demo](http://img.youtube.com/vi/PiNKOIHWG-Q/0.jpg)](https://www.youtube.com/embed/PiNKOIHWG-Q?si=bRQT4fkoyYEkwYqW)
+video intro: <a href="https://www.youtube.com/watch?v=PiNKOIHWG-Q" target="_blank">https://www.youtube.com/watch?v=PiNKOIHWG-Q</a>
 
 
 ![Example a](./example/deeplearning.gif)
