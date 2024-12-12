@@ -1,8 +1,8 @@
 
-video intro: <a href="https://www.youtube.com/watch?v=PiNKOIHWG-Q" target="_blank">https://www.youtube.com/watch?v=PiNKOIHWG-Q</a>
+video intro: <a href="https://www.youtube.com/watch?v=MSSsVSVUXd4" target="_blank">https://www.youtube.com/watch?v=MSSsVSVUXd4</a>
 
 
-![Example a](./example/deeplearning.gif)
+![Example a](./example/ai.gif)
 
 ![Example 00](./example/biglargemodelmath.png)
 
